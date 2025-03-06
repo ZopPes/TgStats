@@ -1,0 +1,6 @@
+@TgStats.User.Api.Migration_HostAddress = http://localhost:5118
+
+GET {{TgStats.User.Api.Migration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

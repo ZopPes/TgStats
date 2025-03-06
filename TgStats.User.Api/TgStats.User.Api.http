@@ -1,0 +1,6 @@
+@TgStats.User.Api_HostAddress = http://localhost:5032
+
+GET {{TgStats.User.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
